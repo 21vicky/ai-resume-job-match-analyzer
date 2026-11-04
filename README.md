@@ -19,6 +19,25 @@ An intelligent resume analysis application built with Python and Streamlit. Resu
 - 📥 Download Generated Resume as PDF
 - 📈 Interactive Streamlit Dashboard and Skill Analytics
 
+## 📸 Application Screenshots
+
+### 1. Dashboard
+![ResumeIQ Dashboard](screenshots/dashboard.png)
+
+### 2. Skill Analytics
+![Skill Analytics](screenshots/skill-analytics.png)
+
+![Skill Analytics – Detailed View](screenshots/skill-analytics1.png)
+
+### 3. Resume Builder
+![Resume Builder](screenshots/Resume%20Builder.png)
+
+### 4. Resume Improvement Tips
+![Resume Improvement Tips](screenshots/Resume%20Improvement%20Tips.png)
+
+### 5. Generated Resume
+![Generated Resume PDF](screenshots/generated-resume.png)
+
 ## 🛠️ Tech Stack
 
 - Python
